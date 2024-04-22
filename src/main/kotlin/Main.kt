@@ -1,7 +1,9 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    print("user: ")
+    val user: String = readln()
+    print("age: ")
+    val age: Int = readln().toInt()
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+    println("Hello ${user}!")
+    println("You age is ${age}!")
 }
