@@ -15,9 +15,6 @@ class LangCode(val code: String) {
                 }
                 return loadedDefinitions!!
             }
-
-        // object{}.javaClass.getResourceAsStream works too
-        private fun loadConfig() = Config(RESOURCE_NAME)
     }
 
     override fun toString() = definitions[code] ?: NOT_FOUND_TEXT
