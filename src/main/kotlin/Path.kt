@@ -1,0 +1,1 @@
+data class Path(val nodes: List<Node>, val totalWeight: Double)
