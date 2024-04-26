@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Hottehueh-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-libs/Hottehueh-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

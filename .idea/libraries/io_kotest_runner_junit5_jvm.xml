@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="io.kotest.runner.junit5.jvm" type="repository">
+    <properties maven-id="io.kotest:kotest-runner-junit5-jvm:5.6.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kotest-runner-junit5-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-framework-api-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-assertions-shared-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/java-diff-utils-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-test-jvm-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-common-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-framework-engine-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/classgraph-4.8.157.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mordant-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/colormath-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-debug-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-5.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna-platform-5.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-1.10.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-agent-1.10.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-framework-discovery-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-assertions-core-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-jdk8-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-assertions-api-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-extensions-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotest-framework-concurrency-jvm-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlinx-coroutines-core-jvm-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/annotations-23.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-engine-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-commons-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-suite-api-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-platform-launcher-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-jupiter-api-5.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk8-1.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-1.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-jdk7-1.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-stdlib-common-1.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kotlin-reflect-1.8.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
